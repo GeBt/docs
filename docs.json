@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "BiefTeam - Documentación",
+  "name": "BiefTeam - Documentacion",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Guia",
         "groups": [
           {
-            "group": "Get Started asasa",
+            "group": "Comenzar",
             "pages": [
               "introduction",
               "quickstart",
