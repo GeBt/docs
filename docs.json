@@ -77,8 +77,8 @@
       ]
     }
   },
-  "name": "Bief D",
   "logo": {
+    "name": "BiefTeam", 
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
   },
